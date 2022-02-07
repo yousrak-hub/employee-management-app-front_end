@@ -1,6 +1,10 @@
 # EmployeeManagementFront
-
+Front end of Employee Management Tutorial.<br />
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+
+# Backend code
+
+https://github.com/yousrak-hub/employee-management-app-backend
 
 ## Development server
 
